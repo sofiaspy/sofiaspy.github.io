@@ -1,0 +1,44 @@
+img {
+	width: 500px;
+}
+
+.pic {
+	height: 40%;
+}
+.second-section{
+	background-color: #FEC4B9;
+	display:flex;
+	justify-content: center;
+	align-items:center;
+	font-family:"Times New Roman", Times, serif;
+}
+.first-section{
+	background-color: #FEEBE7;
+	text-align: center;
+	font-family: "Times New Roman", Times, serif;
+	font-size: 4em;
+}
+
+h1{
+  font-family: "Times New Roman", Times, serif;
+}
+.text {
+font-size: 3em;
+}
+.third-section{
+	background-color: #FEEBE7;
+	font-size: 2em;
+	text-align: left;
+}
+.fourth-section{
+	font-size: 3em;
+	font-family:"Times New Roman", Times, serif;
+	background-color: #FEEBE7;
+}
+.row{
+	
+	padding: 1em;
+}
+special-pic{
+	height:80%;
+}
